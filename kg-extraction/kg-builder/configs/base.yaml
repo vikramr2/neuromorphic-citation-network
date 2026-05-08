@@ -1,0 +1,7 @@
+project_dir: .              # Root directory of the project (relative to this config file)
+output_dir: output_triple   # Directory for all output files (relative to project_dir)
+merge_output_dirs:          # List of output directories to merge from (for multi-directory processing)
+  - output_triple
+  - output_multiprompt
+logs_dir: logs_triple       # Directory for log files (relative to project_dir)
+seed: 42                         # Random seed for reproducible results

@@ -1,0 +1,46 @@
+models:  # List of LLM models to use for triple extraction
+  # - name: "gpt-oss-120b-vllm"     # Unique identifier for this model configuration
+  #   base_url: "http://pc0143857.ornl.gov:8000/v1"  # vLLM server endpoint
+  #   model: "openai/gpt-oss-120b"  # Model name as known to the server
+  #   provider: "vllm"              # Provider type: "vllm" or "ollama"
+  #   temperature: 0.2              # Sampling temperature (0.0 = deterministic, 1.0 = creative)
+  #   # max_tokens: 1024            # Maximum tokens in response (commented out = use server default)
+  - name: "gpt-oss-120b-ollama"
+    base_url: "http://medz2.ornl.gov:11434"
+    model: "gpt-oss:120b"
+    provider: "ollama"
+    temperature: 0.2  # Reduced from 0.4 for more deterministic responses
+    timeout: 1200  # Increased timeout for this model (20 minutes)
+
+  - name: "llama3.3-quantized-ollama"
+    base_url: "http://carz3.ornl.gov:11434"  # Ollama server endpoint
+    model: "llama3.3:70b-instruct-q2_K"     # Model name as known to Ollama
+    provider: "ollama"
+    temperature: 0.2  # Reduced from 0.4 for more deterministic responses
+    timeout: 1200  # Increased timeout for this very slow model (20 minutes)
+    # max_tokens: 1024
+
+  - name: "gpt-oss-20b-ollama"
+    base_url: "http://carz1.ornl.gov:11434"
+    model: "gpt-oss:20b"
+    provider: "ollama"
+    temperature: 0.2  # Reduced from 0.4 for more deterministic responses
+    timeout: 1200  # Increased timeout for this slow model (20 minutes)
+    # max_tokens: 1024
+
+  - name: "granite4-small-h-ollama"
+    base_url: "http://carz2.ornl.gov:11434"
+    model: "ibm/granite4:small-h"
+    provider: "ollama"
+    temperature: 0.2  # Reduced from 0.4 for more deterministic responses
+    timeout: 900  # Increased timeout for this model (15 minutes)
+  #   max_tokens: 1024
+
+# Parallel execution settings for querying multiple LLM servers concurrently
+parallel_execution:
+  enabled: true              # Enable parallel queries across different servers
+  max_concurrent_servers: 4  # Maximum number of servers to query simultaneously
+  request_timeout: 600       # Default timeout for individual requests (10 minutes = 600 seconds)
+  retry_attempts: 2          # Number of retry attempts per failed request
+  retry_delay: 1.0           # Delay between retries (seconds)
+  enable_llm_json_fix: true  # Use LLM to fix malformed JSON responses

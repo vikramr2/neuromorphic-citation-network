@@ -1,0 +1,44 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Data dumps
+data/
+
+# Logs
+logs/
+logs_*/
+
+# Output artifacts
+output/
+output_*/
+result*/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# zip files
+*.zip
+*.tar.gz
+
+# temp files
+*out.txt
+*.out

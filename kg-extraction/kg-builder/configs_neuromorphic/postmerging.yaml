@@ -1,0 +1,46 @@
+enabled: true
+cleanup_rules:
+  # Remove starting or ending quotes (single or double)
+  - name: "remove_quotes"
+    pattern: "^[\"']+|['\"]+$"
+    replacement: ""
+    description: "Remove leading and trailing single or double quotes"
+
+  # Remove starting or ending special characters
+  - name: "remove_special_chars_start"
+    pattern: "^[$#*:;.,!?@%^&()\\[\\]{}|\\-_=+~`]+"
+    replacement: ""
+    description: "Remove leading special characters like $, #, *, :, ;, etc."
+
+  - name: "remove_special_chars_end"
+    pattern: "[$#*:;.,!?@%^&()\\[\\]{}|\\-_=+~`]+$"
+    replacement: ""
+    description: "Remove trailing special characters like $, #, *, :, ;, etc."
+
+  # Remove :node_ or :node- (anywhere in the string)
+  - name: "remove_node_prefixes"
+    pattern: ":node[_-]"
+    replacement: ""
+    description: "Remove :node_ or :node- substrings"
+
+  # Remove "a " (a followed by space) at the beginning
+  - name: "remove_a_space_prefix"
+    pattern: "^a\\s+"
+    replacement: ""
+    description: "Remove 'a ' prefix (a followed by space)"
+
+  # Remove "all " (all followed by space) at the beginning
+  - name: "remove_all_space_prefix"
+    pattern: "^all\\s+"
+    replacement: ""
+    description: "Remove 'all ' prefix (all followed by space)"
+
+# Apply cleanup to these fields in the merged data
+apply_to_fields:
+  - "entity_name"  # In entities table
+  - "subject_entity_name"  # In predications table
+  - "object_entity_name"  # In predications table
+  - "predicate"  # In predications table
+  - "h"  # In JSONL triples (head)
+  - "r"  # In JSONL triples (relation)
+  - "t"  # In JSONL triples (tail)

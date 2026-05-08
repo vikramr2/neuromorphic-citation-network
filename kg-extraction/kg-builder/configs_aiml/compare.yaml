@@ -1,0 +1,93 @@
+# Configuration for compare_llms.py
+
+# LLM Configuration
+# Can be a path to an existing llm.yaml or inline configuration
+llms: "configs/llm.yaml"
+
+# GraphRAG Configuration
+kg_rag:
+  enabled: true
+  # Use Python API (preferred) or CLI subprocess
+  python_api: false  # Changed to false to use CLI ask command
+  # Config directory for GraphRAG
+  config_dir: "configs"
+  # If python_api is false, specify the module path for CLI
+  # cli_path: ["python", "-m", "src.kg_builder.cli"]
+  cli_path: "src.kg_builder.cli"
+  # Timeout for CLI command execution (seconds)
+  timeout_sec: 180  # 3 minutes timeout
+  # CLI parameters to pass to the ask command
+  cli_params:
+    max_tokens: 2048
+    temperature: 0.2
+    # model: "granite4-small-h-ollama"  # Optional: override reasoner model
+  # LLM endpoints for GraphRAG roles
+  llm_endpoints:
+    extractor: "gpt-oss-20b-ollama"  # Fast, structural tasks
+    ranker: "granite4-small-h-ollama"      # Classification/Scoring
+    reasoner: "gpt-oss-120b-ollama"        # Final synthesis
+
+# Evaluator Configuration
+evaluator:
+  # Model for computing perplexity (fluency)
+  # Using a small model for speed, or a larger one for better estimation
+  perplexity_model: "gpt2" 
+  
+  # Model for computing semantic similarity
+  # Should match the embedding model used for FAISS index construction (see pipeline.yaml)
+  embedding_model: "granite4-small-h-ollama"
+
+# Model Display Names for Friendly Plot Labels
+model_display_names:
+  "RAG_System": "rag"
+  "gpt-oss-120b-ollama": "gpt-120b"
+  "gpt-oss-20b-ollama": "gpt-20b"
+  "granite4-small-h-ollama": "granite"
+  "llama3.3-quantized-ollama": "llama3.3"
+
+# Visualization Configuration
+visualization:
+  # Which comparison visualizations to generate
+  enabled_plots:
+    - "agreement_matrix"    # Pairwise similarity between all outputs (naive + RAG)
+    - "perplexity_matrix"   # Perplexity scores for all outputs
+    - "delta_heatmap"       # RAG improvement over naive models
+    # - "scatter_plot"      # Optional: scatter plot of perplexity (naive vs RAG)
+  # Custom titles and labels for plots
+  titles:
+    agreement_matrix: "Average Pairwise Text Similarity"
+    perplexity_matrix: "Average Perplexity (Lower is Better)"
+    delta_heatmap: "Perplexity Delta (RAG System - Naive Model)\nNegative = RAG Improved"
+  axes:
+    agreement_matrix:
+      xlabel: "Models"
+      ylabel: "Models"
+      cbar_label: "Similarity"
+      annot_fontsize: 18
+    perplexity_matrix:
+      xlabel: ""
+      ylabel: "Models"
+      cbar_label: "Perplexity"
+      annot_fontsize: 12
+    delta_heatmap:
+      xlabel: ""
+      ylabel: "Models"
+      cbar_label: "Delta"
+      annot_fontsize: 12
+
+# Default Settings
+defaults:
+  temperature_naive: 0.2
+  temperature_rag: 0.2
+  max_output_tokens: 2048
+  timeout_s: 600
+  output_dir: "results"
+
+# Queries to compare
+queries:
+  - "Which learning rules, apart from STDP, were predicted to gain importance in neuromorphic computing"
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  json: false

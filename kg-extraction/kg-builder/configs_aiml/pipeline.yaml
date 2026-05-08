@@ -1,0 +1,62 @@
+extraction:
+  max_chars: 16000  # Maximum characters to process per document (~8000 tokens). Longer documents are truncated.
+  prompt_files:     # List of prompt files to try for each document. ALL prompts are attempted (not fallbacks).
+    - "prompts/neuromorphic_prompt.md"  # First prompt file for triple extraction
+    # - "prompts/triple_extraction.md"   # Second prompt file - all are tried for maximum coverage
+
+normalize:          # Text normalization settings for entity/relation processing
+  lower: true       # Convert all text to lowercase
+  strip_punct: true # Remove punctuation from entities and relations
+  exclusions: ["cmos", "mos"]  # Terms to exclude from plural-to-singular normalization
+
+dedupe:             # Deduplication settings
+  fuzzy_threshold: 0.92  # Similarity threshold for fuzzy text matching (0.0-1.0, higher = stricter)
+  track_duplicates: true # Generate duplicates.jsonl with frequency counts of duplicate HRT triples
+
+clustering:         # Graph clustering settings for noise reduction
+  algorithm: "louvain"    # Community detection algorithm
+  min_cluster_size: 3     # Minimum nodes per cluster to keep
+  enable_visualization: false # Generate GraphML and image files (can be time-consuming)
+  track_deleted_entities: true # Generate deleted_entities.txt showing entities removed during clustering
+
+embedding:          # Entity embedding generation settings
+  model: "granite4-small-h-ollama"  # MOST EFFICIENT: 1.39 triples/sec (best for embedding)
+  batch_size: 100     # Number of entities to embed in each batch
+  dimension: 8192     # Expected embedding dimension (adjust based on model)
+  checkpointing:      # Checkpoint settings for resumable embedding generation
+    enabled: true         # Enable checkpointing to resume interrupted embedding processes
+    save_interval: 50     # Save checkpoint every N batches (reduces disk I/O vs too frequent saves)
+    directory: "checkpoints"  # Directory to store checkpoints (relative to output_dir)
+    cleanup_on_success: true  # Remove checkpoints after successful completion
+
+faiss:              # FAISS index settings
+  index_path: "faiss_index.idx"  # Path to save/load the FAISS index (relative to output_dir)
+  index_type: "IndexFlatIP"  # FAISS index type (IndexFlatIP for inner product, IndexFlatL2 for L2)
+
+graphrag:           # GraphRAG query settings
+  concurrency_limit: 10  # Max concurrent async requests
+  k_hops: 2              # Graph traversal depth
+  max_subgraph_triples: 50  # Maximum triples to include in subgraph
+  max_prompt_triples: 20    # Maximum triples to include in prompt
+  max_prompt_documents: 5   # Maximum documents to include in prompt
+  # CLI ask command parameters
+  max_tokens: 2048         # Maximum tokens in generated answer (CLI default: 2048)
+  temperature: 0.2         # Sampling temperature for answer generation (CLI default: 0.2)
+  extractor_max_tokens: 1024    # Maximum tokens for entity extraction (CLI default: 256)
+  extractor_temperature: 0.2   # Sampling temperature for entity extraction (CLI default: 0.2)
+  llm_endpoints:
+    extractor: "gpt-oss-20b-ollama"  # Fast, structural tasks
+    ranker: "granite4-small-h-ollama"      # Classification/Scoring
+    reasoner: "gpt-oss-120b-ollama"        # Final synthesis
+
+ontology:           # Ontology generation settings
+  name: "UnifiedKG"       # Name of the generated ontology
+  base_iri: "http://example.org/"  # Base IRI for ontology concepts
+
+# LLM Regeneration settings for handling empty or malformed responses
+regeneration:
+  enabled: true          # Enable automatic regeneration for failed extractions
+  max_attempts: 2        # Maximum regeneration attempts (1 original + 1 retry) - reduced from 3
+  temperature_increment: 0.2  # Increase temperature by this amount each retry - reduced from 0.3
+  max_temperature: 0.8   # Maximum temperature to use (prevents going too high) - reduced from 1.0
+  delay_between_attempts: 0.5  # Delay between regeneration attempts (seconds)

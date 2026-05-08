@@ -1,0 +1,6 @@
+project_dir: .
+output_dir: ../../output_neuroscience
+merge_output_dirs:
+  - ../../output_neuroscience
+logs_dir: ../../logs_neuroscience
+seed: 42

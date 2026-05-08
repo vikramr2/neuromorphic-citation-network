@@ -1,0 +1,8 @@
+project_dir: .
+output_dir: ../../output_all
+merge_output_dirs:
+  - ../../output_neuromorphic
+  - ../../output_aiml
+  - ../../output_neuroscience
+logs_dir: ../../logs_all
+seed: 42

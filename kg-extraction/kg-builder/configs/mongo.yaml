@@ -1,0 +1,5 @@
+uri: "mongodb://carz1.ornl.gov:27017"  # MongoDB connection string (can be overridden by MONGO_URI env var)
+database: "knight"                        # Database name containing the documents
+collection: "knight_documents"            # Collection name containing the documents to process
+limit: 0                                 # Default maximum number of documents to process (can be overridden by CLI --limit)
+                                          # Use --all flag or set limit to 0 to process ALL documents in the collection
