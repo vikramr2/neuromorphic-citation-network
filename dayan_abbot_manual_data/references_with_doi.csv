@@ -1,0 +1,403 @@
+Authors,Year,Title,Journal/Book,Volume,Pages,Notes,DOI
+"Abbott, LF",1992,Simple diagrammatic rules for solving dendritic cable problems,Physica A,185,343-356,,10.1016/0378-4371(92)90474-5
+"Abbott, LF",1994,Decoding neuronal firing and modeling neural networks,Quarterly Review of Biophysics,27,291-331,,10.1017/s0033583500003024
+"Abbott, LF; Blum, KI",1996,Functional significance of long-term potentiation for sequence learning and prediction,Cerebral Cortex,6,406-416,,10.1093/cercor/6.3.406
+"Abbott, LF; Farhi, E; Gutmann, S",1991,The path integral for dendritic trees,Biological Cybernetics,66,49-60,,10.1007/bf00196452
+"Abbott, LF; Varela, JA; Sen, K; Nelson, SB",1997,Synaptic depression and cortical gain control,Science,275,220-224,,10.1126/science.275.5297.221
+"Adelson, EH; Bergen, JR",1985,Spatiotemporal energy models for the perception of motion,Journal of the Optical Society of America,A2,284-299,,10.1364/josaa.2.000284
+"Ahmed, B; Anderson, JC; Douglas, RJ; Martin, KAC; Whitterage, D",1998,Estimates of the net excitatory currents evoked by visual stimulation of identified neurons in cat visual cortex,Cerebral Cortex,8,462-476,,10.1093/cercor/8.5.462
+"Amari, S",1999,Natural gradient learning for over- and under-complete bases in ICA,Neural Computation,11,1875-1883,,10.1162/089976699300015990
+"Amit, DJ",1989,Modeling Brain Function,,,,New York: Cambridge University Press,10.1017/cbo9780511623257
+"Amit, DJ; Tsodyks, MV",1991,Quantitative study of attractor neural networks retrieving at low spike rates. I.,Network: Computation in Neural Systems,2,259-273,,10.1088/0954-898x_2_3_004
+"Amit, DJ; Tsodyks, MV",1991,Quantitative study of attractor neural networks retrieving at low spike rates. II.,Network: Computation in Neural Systems,2,275-294,,10.1088/0954-898x_2_3_004
+"Andersen, RA",1989,Visual and eye movement functions of posterior parietal cortex,Annual Review of Neuroscience,12,377-403,,10.1146/annurev.neuro.12.1.377
+"Atick, JJ",1992,Could information theory provide an ecological theory of sensory processing?,Network: Computation in Neural Systems,3,213-251,,10.1088/0954-898x_3_2_009
+"Atick, JJ; Li, Z; Redlich, AN",1992,Understanding retinal color coding from first principles,Neural Computation,4,559-572,,10.1162/neco.1992.4.4.559
+"Atick, JJ; Redlich, AN",1990,Towards a theory of early visual processing,Neural Computation,2,308-320,,10.1162/neco.1990.2.3.308
+"Atick, JJ; Redlich, AN",1993,Convergent algorithm for sensory receptive field development,Neural Computation,5,45-60,,10.1162/neco.1993.5.1.45
+"Baddeley, R; Abbott, LF; Booth, MJA; Sengpiel, F; Freeman, T; Wakeman, EA; Rolls, ET",1997,Responses of neurons in primary and interior temporal visual cortices to natural scenes,Proceedings of the Royal Society of London,B264,1775-1783,,10.1098/rspb.1997.0246
+"Bair, W; Koch, C",1996,Temporal precision of spike trains in extrastriate cortex of the behaving macaque monkey,Neural Computation,8,1185-1202,,10.1162/neco.1996.8.6.1185
+"Bair, W; Koch, C; Newsome, WT; Britten, KH",1994,Power spectrum analysis of bursting cells in area MT in the behaving monkey,Journal of Neuroscience,14,2870-2892,,10.1523/jneurosci.14-05-02870.1994
+"Baldi, P; Heiligenberg, W",1988,How sensory maps could enhance resolution through ordered arrangements of broadly tuned receivers,Biological Cybernetics,59,313-318,,10.1007/bf00332921
+"Barlow, HB",1961,Possible principles underlying the transformation of sensory messages,,,,"In WA Rosenblith, ed., Sensory Communication. Cambridge, MA: MIT Press",10.2307/1439585
+"Barlow, HB",1989,Unsupervised learning,Neural Computation,1,295-311,,10.1162/neco.1989.1.3.295
+"Barlow, HB; Levick, WR",1965,The mechanism of directionally selective units in the rabbit's retina,Journal of Physiology,193,327-342,,10.1113/jphysiol.1965.sp007638
+"Barto, AG; Duff, M",1994,Monte Carlo matrix inversion and reinforcement learning,,,598-605,In Advances in Neural Information Processing Systems 6,10.1016/0959-4388(94)90138-4
+"Barto, AG; Sutton, RS; Anderson, CW",1983,Neuronlike elements that can solve difficult learning problems,"IEEE Transactions on Systems, Man, and Cybernetics",13,834-846,,10.1109/tsmc.1983.6313077
+"Barto, AG; Sutton, RS; Watkins, CJCH",1990,Learning and sequential decision making,,,539-602,"In Learning and Computational Neuroscience. Cambridge, MA: MIT Press",10.1016/0950-5849(90)90164-m
+"Battaglia, FP; Treves, A",1998,Attractor neural networks storing multiple space representations: A model for hippocampal place fields,Physical Review,E58,7738-7753,,10.1103/physreve.58.7738
+"Baum, LE; Petrie, E; Soules, G; Weiss, N",1970,A maximization technique occurring in the statistical analysis of probabilistic functions of Markov chains,Annals of Mathematical Statistics,41,164-171,,10.1214/aoms/1177697196
+"Bear, MF; Connors, BW; Paradiso, MA",1996,Neuroscience: Exploring the Brain,,,,Baltimore: Williams & Wilkins,10.1007/bf02532336
+"Becker, S; Hinton, GE",1992,A self-organizing neural network that discovers surfaces in random-dot stereograms,Nature,355,161-163,,10.1038/355161a0
+"Becker, S; Plumbley, M",1996,Unsupervised neural network learning procedures for feature extraction and classification,International Journal of Applied Intelligence,6,185-203,,10.1007/bf00126625
+"Bell, AJ; Sejnowski, TJ",1995,An information maximisation approach to blind separation and blind deconvolution,Neural Computation,7,1129-1159,,10.1162/neco.1995.7.6.1129
+"Bell, AJ; Sejnowski, TJ",1996,Learning the higher-order structure of a natural sound,Network: Computation in Neural Systems,7,261-267,,10.1088/0954-898x_7_2_005
+"Bell, AJ; Sejnowski, TJ",1997,The independent components of natural scenes are edge filters,Vision Research,37,3327-3338,,10.1016/s0042-6989(97)00121-1
+"Bellman, RE",1957,Dynamic Programming,,,,"Princeton, NJ: Princeton University Press",10.1073/pnas.43.10.927
+"Ben-Yishai, R; Bar-Or, RL; Sompolinsky, H",1995,Theory of orientation tuning in visual cortex,Proceedings of the National Academy of Sciences USA,92,3844-3848,,10.1073/pnas.92.9.3844
+"Berry, MJ; Meister, M",1998,Refractoriness and neural precision,Journal of Neuroscience,18,2200-2211,,10.1523/jneurosci.18-06-02200.1998
+"Bertsekas, DP; Tsitsiklis, JN",1996,Neuro-Dynamic Programming,,,,"Belmont, MA: Athena Scientific",10.2307/3010291
+"Bialek, W; DeWeese, M; Rieke, F; Warland, D",1993,Bits and brains: Information flow in the nervous system,Physica A,200,581-593,,10.1016/0378-4371(93)90563-j
+"Bialek, W; Rieke, F; de Ruyter van Steveninck, RR; Warland, D",1991,Reading a neural code,Science,252,1854-1857,,10.1126/science.2063199
+"Bienenstock, EL; Cooper, LN; Munro, PW",1982,Theory for the development of neuron selectivity: Orientation specificity and binocular interaction in visual cortex,Journal of Neuroscience,2,32-48,,10.1523/jneurosci.02-01-00032.1982
+"Bishop, CM",1995,Neural Networks for Pattern Recognition,,,,Oxford: Oxford University Press,10.1093/oso/9780198538493.001.0001
+"Blum, KI; Abbott, LF",1996,A model of spatial map formation in the hippocampus of the rat,Neural Computation,8,85-93,,10.1162/neco.1996.8.1.85
+"Boas, ML",1966,Mathematical Methods in the Physical Sciences,,,,New York: Wiley,
+"de Boer, E; Kuyper, P",1968,Triggered correlation,IEEE Biomedical Engineering,15,169-179,,10.1109/tbme.1968.4502561
+"Bower, JM; Beeman, D",1998,The Book of GENESIS,,,,"Santa Clara, CA: Telos",10.1007/978-1-4612-1634-6
+"Braitenberg, V; Schuz, A",1991,Anatomy of the Cortex,,,,Berlin: Springer-Verlag,10.1007/978-3-662-02728-8
+"Bressloff, PC; Coombes, S",2000,Dynamics of strongly coupled spiking neurons,Neural Computation,12,91-129,,10.1162/089976600300015907
+"Britten, KH; Shadlen, MN; Newsome, WT; Movshon, JA",1992,The analysis of visual motion: A comparison of neuronal and psychophysical performance,Journal of Neuroscience,12,4745-4765,,10.1523/jneurosci.12-12-04745.1992
+"Brotchie, PR; Andersen, RA; Snyder, LH; Goodman, SJ",1995,Head position signals used by parietal neurons to encode locations of visual stimuli,Nature,375,232-235,,10.1038/375232a0
+"Burt, PJ; Adelson, EH",1983,The Laplacian pyramid as a compact image code,IEEE Transactions on Communications,31,532-540,,10.1109/tcom.1983.1095851
+"Bussgang, JJ",1952,Cross-correlation functions of amplitude-distorted Gaussian signals,MIT Research Laboratory for Electronic Technology Report,216,1-14,,
+"Cajal, S Ramon y",1911,Histologie du Systeme Nerveux de l'Homme et des Vertebres,,,,Paris: Maloine,
+"Campbell, FW; Gubisch, RW",1966,Optical quality of the human eye,Journal of Physiology,186,558-578,,10.1113/jphysiol.1966.sp008056
+"Carandini, M; Heeger, DJ; Movshon, JA",1996,Linearity and gain control in V1 simple cells,,,,In Cerebral Cortex Vol. 10. New York: Plenum Press,10.1152/jn.1996.76.5.3425
+"Carandini, M; Ringach, DL",1997,Predictions of a recurrent model of orientation selectivity,Vision Research,37,3061-3071,,10.1016/s0042-6989(97)00100-4
+"Carpenter, GA; Grossberg, S",1991,Pattern Recognition by Self-Organizing Neural Network,,,,"Cambridge, MA: MIT Press",10.7551/mitpress/5271.003.0012
+"Chance, FS",2000,Modeling Cortical Dynamics and the Responses of Neurons in the Primary Visual Cortex,,,,"Ph.D. dissertation, Brandeis University",10.1016/s0925-2312(00)00183-1
+"Chance, FS; Nelson, SB; Abbott, LF",1998,Synaptic depression and the temporal response characteristics of V1 simple cells,Journal of Neuroscience,18,4785-4799,,10.1523/jneurosci.18-12-04785.1998
+"Chance, FS; Nelson, SB; Abbott, LF",1999,Complex cells as cortically amplified simple cells,Nature Neuroscience,2,277-282,,10.1038/6381
+"Chauvin, Y; Rumelhart, DE",1995,"Back Propagation: Theory, Architectures, and Applications",,,,"Hillsdale, NJ: Erlbaum",10.1016/0956-5663(95)96809-d
+"Churchland, PS; Sejnowski, TJ",1992,The Computational Brain,,,,"Cambridge, MA: MIT Press",10.7551/mitpress/2010.001.0001
+"Cohen, MA; Grossberg, S",1983,Absolute stability of global pattern formation and parallel memory storage by competitive neural networks,"IEEE Transactions on Systems, Man, and Cybernetics",13,815-826,,10.1109/tsmc.1983.6313075
+"Compte, A; Brunel, N; Goldman-Rakic, PS; Wang, XJ",2000,Synaptic mechanisms and network dynamics underlying spatial working memory in a cortical network model,Cerebral Cortex,10,910-923,,10.1093/cercor/10.9.910
+"Connor, JA; Stevens, CF",1971,Prediction of repetitive firing behaviour from voltage clamp data on an isolated neurone soma,Journal of Physiology,213,31-53,,10.1113/jphysiol.1971.sp009366
+"Connor, JA; Walter, D; McKown, R",1977,Neural repetitive firing: modifications of the Hodgkin-Huxley axon suggested by experimental results from crustacean axons,Biophysical Journal,18,81-102,,10.1016/s0006-3495(77)85598-7
+"Cover, TM",1965,Geometrical and statistical properties of systems of linear inequalities with application in pattern recognition,IEEE Transactions on Electronic Computers,EC14,326-334,,10.1109/pgec.1965.264137
+"Cover, TM; Thomas, JA",1991,Elements of Information Theory,,,,New York: Wiley,10.1109/18.104312
+"Cox, DR",1962,Renewal Theory,,,,London: Methuen; New York: Wiley,10.1016/b978-0-08-009014-6.50010-7
+"Cox, DR; Hinckley, DV",1974,Theoretical Statistics,,,,London: Chapman & Hall,10.1007/978-1-4899-2887-0
+"Cox, DR; Isham, V",1980,Point Processes,,,,New York: Chapman & Hall,10.2307/3213208
+"Crair, MC; Gillespie, DC; Stryker, MP",1998,The role of visual experience in the development of columns in cat visual cortex,Science,279,566-570,,10.1126/science.279.5350.566
+"Crowley, JC; Katz, LC",1999,Development of ocular dominance columns in the absence of retinal input,Nature Neuroscience,2,1125-1130,,10.1038/16051
+"Dan, Y; Atick, JJ; Reid, RC",1996,Efficient coding of natural scenes in the lateral geniculate nucleus: Experimental test of a computational theory,Journal of Neuroscience,16,3351-3362,,10.1523/jneurosci.16-10-03351.1996
+"Daubechies, I",1992,Ten Lectures on Wavelets,,,,Philadelphia: SIAM,10.1137/1.9781611970104
+"Daubechies, I; Grossmann, A; Meyer, Y",1986,Painless nonorthogonal expansions,Journal of Mathematical Physics,27,1271-1283,,10.1063/1.527388
+"Daugman, JG",1985,"Uncertainty relation for resolution in space, spatial frequency, and orientation optimization by two-dimensional visual cortical filters",Journal of the Optical Society of America,2,1160-1169,,10.1364/josaa.2.001160
+"Dayan, P; Hinton, GE; Neal, RM; Zemel, RS",1995,The Helmholtz machine,Neural Computation,7,889-904,,10.1162/neco.1995.7.5.889
+"DeAngelis, GC; Ohzawa, I; Freeman, RD",1995,Receptive field dynamics in the central visual pathways,Trends in Neuroscience,18,451-458,,10.1016/0166-2236(95)94496-r
+"Dempster, AP; Laird, NM; Rubin, DB",1977,Maximum likelihood from incomplete data via the EM algorithm,Journal of the Royal Statistical Society,B39,1-38,,10.1111/j.2517-6161.1977.tb01600.x
+"Destexhe, A; Mainen, Z; Sejnowski, T",1994,"Synthesis of models for excitable membranes, synaptic transmission and neuromodulation using a common kinetic formalism",Journal of Computational Neuroscience,1,195-230,,10.1007/bf00961734
+"De Valois, RL; De Valois, KK",1990,Spatial Vision,,,,New York: Oxford University Press,10.1364/josaa.7.001034
+"Dickinson, A",1980,Contemporary Animal Learning Theory,,,,Cambridge: Cambridge University Press,
+"Dong, DW; Atick, JJ",1995,Temporal decorrelation: A theory of lagged and nonlagged responses in the lateral geniculate nucleus,Network: Computation in Neural Systems,6,159-178,,10.1088/0954-898x/6/2/003
+"Douglas, RJ; Koch, C; Mahowald, M; Martin, KAC; Suarez, HH",1995,Recurrent excitation in neocortical circuits,Science,269,981-985,,10.1126/science.7638624
+"Douglas, RJ; Martin, KAC",1998,Neocortex,,,459-509,"In GM Shepherd, ed., The Synaptic Organisation of the Brain. Oxford: Oxford University Press",10.1203/00006450-199804001-01902
+"Dowling, JE",1987,The Retina: An Approachable Part of the Brain,,,,"Cambridge, MA: Bellknap Press",10.1002/cne.902560310
+"Dowling, JE",1992,An Introduction to Neuroscience,,,,"Cambridge, MA: Bellknap Press",10.1520/stp15061s
+"Duda, RO; Hart, PE",1973,Pattern Classification and Scene Analysis,,,,New York: Wiley,10.1080/00098655.1973.11477791
+"Duda, RO; Hart, PE; Stork, DG",2000,Pattern Classification,,,,New York: Wiley,10.1145/633507.633510
+"Durbin, R; Mitchison, G",1990,A dimension reduction framework for cortical maps,Nature,343,644-647,,10.1038/343644a0
+"Durbin, R; Willshaw, DJ",1987,An analogue approach to the travelling salesman problem using an elastic net method,Nature,326,689-691,,10.1038/326689a0
+"Edelstein-Keshet, L",1988,Mathematical Models in Biology,,,,New York: Random House,
+"Engel, AK; Konig, P; Singer, W",1991,Direct physiological evidence for scene segmentation by temporal coding,Proceedings of the National Academy of Sciences USA,88,9136-9140,,10.1073/pnas.88.20.9136
+"Enroth-Cugell, C; Robson, JG",1966,The contrast sensitivity of retinal ganglion cells of the cat,Journal of Physiology,187,517-522,,10.1113/jphysiol.1966.sp008107
+"Ermentrout, GB",1998,Neural networks as spatio-temporal pattern-forming systems,Reports on Progress in Physics,64,353-430,,10.1088/0034-4885/61/4/002
+"Ermentrout, GB; Cowan, J",1979,A mathematical theory of visual hallucination patterns,Biological Cybernetics,34,137-150,,10.1007/bf00336965
+"Erwin, E; Obermayer, K; Schulten, K",1995,Models of orientation and ocular dominance columns in the visual cortex: A critical comparison,Neural Computation,7,425-468,,10.1162/neco.1995.7.3.425
+"Everitt, BS",1984,An Introduction to Latent Variable Models,,,,London: Chapman & Hall,10.1007/978-94-009-5564-6
+"Feller, W",1968,An Introduction to Probability Theory and Its Application,,,,New York: Wiley,10.2307/1527528
+"Ferster, D",1994,Linearity of synaptic interactions in the assembly of receptive fields in cat visual cortex,Current Opinion in Neurobiology,4,563-568,,10.1016/0959-4388(94)90058-2
+"Field, DJ",1987,Relations between the statistics of natural images and the response properties of cortical cells,Journal of the Optical Society of America,A4,2379-2394,,10.1364/josaa.4.002379
+"Field, DJ",1994,What is the goal of sensory coding?,Neural Computation,6,559-601,,10.1162/neco.1994.6.4.559
+"Foldiak, P",1989,Adaptive network for optimal linear feature extraction,,,401-405,In Proceedings of the IEEE/INNS IJCNN,10.1109/ijcnn.1989.118615
+"Foldiak, P",1991,Learning invariance from transformed sequences,Neural Computation,3,194-200,,
+"Foster, DJ; Morris, RGM; Dayan, P",2000,Models of hippocampally dependent navigation using the temporal difference learning rule,Hippocampus,10,1-16,,10.1002/(sici)1098-1063(2000)10:1<1::aid-hipo1>3.0.co;2-1
+"Freeman, WJ; Schneider, W",1982,Changes in spatial patterns of rabbit olfactory EEG with conditioning to odors,Psychophysiology,19,44-56,,10.1111/j.1469-8986.1982.tb02598.x
+"Friston, KJ; Tononi, G; Reeke, GN Jr; Sporns, O; Edelman, GM",1994,Value-dependent selection in the brain: Simulation in a synthetic neural model,Neuroscience,59,229-243,,10.1016/0306-4522(94)90592-4
+"Fuster, JM",1995,Memory in the Cerebral Cortex,,,,"Cambridge, MA: MIT Press",10.1017/s0140525x00040231
+"Gabbiani, F; Koch, C",1998,Principles of spike train analysis,,,313-360,"In C Koch & I Segev, eds., Methods of Neuronal Modeling. Cambridge, MA: MIT Press",10.1523/jneurosci.18-06-02283.1998
+"Gabbiani, F; Metzner, W; Wessel, R; Koch, C",1996,From stimulus encoding to feature extraction in weakly electric fish,Nature,384,564-567,,10.1038/384564a0
+"Gabor, D",1946,Theory of communication,Journal of the Institution of Electrical Engineers,93,429-457,,10.1049/ji-3-2.1946.0074
+"Gabriel, M; Moore, JW",1990,Learning and Computational Neuroscience,,,,"Cambridge, MA: MIT Press",10.1007/978-3-663-13975-1_58
+"Gallistel, CR",1990,The Organization of Learning,,,,"Cambridge, MA: MIT Press",
+"Gallistel, CR; Gibbon, J",2000,"Time, rate and conditioning",Psychological Review,107,289-344,,10.1037//0033-295x.107.2.289
+"Georgopoulos, AP; Kalaska, JF; Caminiti, R; Massey, JT",1982,On the relations between the directions of two-dimensional arm movements and cell discharge in primate motor cortex,Journal of Neuroscience,2,1527-1537,,10.1523/jneurosci.02-11-01527.1982
+"Georgopoulos, AP; Kettner, RE; Schwartz, AB",1988,Primate motor cortex and free arm movements to visual targets in three-dimensional space. II.,Neuroscience,8,2928-2937,,10.1523/jneurosci.08-08-02928.1988
+"Georgopoulos, AP; Schwartz, AB; Kettner, RE",1986,Neuronal population coding of movement direction,Science,243,1416-1419,,10.1126/science.3749885
+"Gershenfeld, NA",1999,The Nature of Mathematical Modeling,,,,Cambridge: Cambridge University Press,10.1063/1.882867
+"Gerstner, W",1998,Spiking neurons,,,3-54,"In W Maass & CM Bishop, eds., Pulsed Neural Networks. Cambridge, MA: MIT Press",10.7551/mitpress/5704.003.0005
+"van Gisbergen, JAM; Van Opstal, AJ; Tax, AMM",1987,Collicular ensemble coding of saccades based on vector summation,Neuroscience,21,541-555,,10.1016/0306-4522(87)90140-0
+"Gluck, MA; Reifsnider, ES; Thompson, RF",1990,Adaptive signal processing and the cerebellum,,,131-185,"In Neuroscience and Connectionist Theory. Hillsdale, NJ: Erlbaum",10.1109/53.45968
+"Gluck, MA; Rumelhart, DE",1990,Neuroscience and Connectionist Theory,,,,"Hillsdale, NJ: Erlbaum",10.1146/annurev.cs.04.060190.002101
+"Goldman-Rakic, PS",1994,Cellular basis of working memory,Neuron,14,477-485,,10.1523/jneurosci.14-05-02775.1994
+"Goodall, MC",1960,Performance of a stochastic net,Nature,185,557-558,,10.1038/185557a0
+"Goodhill, GJ",1993,Topography and ocular dominance: A model exploring positive correlations,Biological Cybernetics,69,109-118,,10.1007/bf00226194
+"Goodhill, GJ; Richards, LJ",1999,"Retinotectal maps: Molecules, models and misplaced data",Trends in Neuroscience,22,529-534,,10.1016/s0166-2236(99)01469-1
+"Goodhill, GJ; Willshaw, DJ",1990,Application of the elastic net algorithm to the formation of ocular dominance stripes,Network: Computation in Neural Systems,1,41-61,,10.1088/0954-898x/1/1/004
+"Graham, NVS",1989,Visual Pattern Analyzers,,,,New York: Oxford University Press,10.1093/acprof:oso/9780195051544.001.0001
+"Graziano, MSA; Hu, XT; Gross, CG",1997,Visuospatial properties of ventral premotor cortex,Journal of Neurophysiology,77,2268-2292,,10.1152/jn.1997.77.5.2268
+"Green, DM; Swets, JA",1966,Signal Detection Theory and Psychophysics,,,,"Los Altos, CA: Peninsula Publishing",10.1126/science.154.3756.1532-a
+"Grenander, U",1995,Elements of Pattern Theory,,,,Baltimore: Johns Hopkins University Press,10.2307/2983457
+"Grossberg, S",1982,Processing of expected and unexpected events during conditioning and attention,Psychological Review,89,529-572,,10.1037/0033-295x.89.5.529
+"Grossberg, S",1987,The Adaptive Brain. Vols. 1 and 2,,,,Amsterdam: Elsevier,10.1111/j.1551-6708.1987.tb00862.x
+"Grossberg, S",1988,Neural Networks and Natural Intelligence,,,,"Cambridge, MA: MIT Press",10.1016/0893-6080(88)90021-4
+"Grossberg, S; Schmajuk, NA",1989,Neural dynamics of adaptive timing and temporal discrimination during associative learning,Neural Networks,2,79-102,,10.1016/0893-6080(89)90026-9
+"Haberly, LB",1990,Olfactory cortex,,,,"In GM Shepherd, ed., The Synaptic Organization of the Brain. New York: Oxford University Press",10.1007/978-1-4615-3824-0_2
+"Hahnloser, RH; Sarpeshkar, R; Mahowald, MA; Douglas, RJ; Seung, HS",2000,Digital selection and analogue amplification coexist in a cortex-inspired silicon circuit,Nature,405,947-951,,10.1038/35016072
+"Hammer, M",1993,An identified neuron mediates the unconditioned stimulus in associative olfactory learning in honeybees,Nature,336,59-63,,10.1038/366059a0
+"van Hateren, JH",1992,A theory of maximizing sensory information,Biological Cybernetics,68,23-29,,10.1007/bf00203134
+"van Hateren, JH",1993,Three modes of spatiotemporal preprocessing by eyes,Journal of Comparative Physiology,A172,583-591,,10.1007/bf00213681
+"Hebb, DO",1949,The Organization of Behavior: A Neuropsychological Theory,,,,New York: Wiley,
+"Heeger, DJ",1992,Normalization of cell responses in cat striate cortex,Visual Neuroscience,9,181-198,,10.1017/s0952523800009640
+"Heeger, DJ",1993,"Modeling simple-cell direction selectivity with normalized, half-squared, linear operators",Journal of Neurophysiology,70,1885-1898,,10.1152/jn.1993.70.5.1885
+"Henry, GH; Dreher, B; Bishop, PO",1974,Orientation specificity of cells in cat striate cortex,Journal of Neurophysiology,37,1394-1409,,10.1152/jn.1974.37.6.1394
+"Herrault, J; Jutten, C",1986,Space or time adaptive signal processing by neural networks,,,,"In JS Denker, ed., Neural Networks for Computing. New York: American Institute for Physics",10.1063/1.36258
+"Hertz, J; Krogh, A; Palmer, RG",1991,Introduction to the Theory of Neural Computation,,,,"Redwood City, CA: Addison-Wesley",10.1063/1.2810360
+"Hille, B",1992,Ionic Channels of Excitable Membranes,,,,"Sunderland, MA: Sinauer Associates",10.1085/jgp.100.5.749
+"Hines, ML",1984,Efficient computation of branched nerve equations,International Journal of Biomedical Computation,15,69-76,,10.1016/0020-7101(84)90008-4
+"Hines, ML; Carnevale, NT",1997,The NEURON simulation environment,Neural Computation,9,1179-1209,,10.1162/neco.1997.9.6.1179
+"Hinton, GE",1981,Shape representation in parallel systems,,,1088-1096,In Proceedings of the Seventh IJCAI,10.1016/b978-1-4832-8401-9.50009-x
+"Hinton, GE",1984,Distributed Representations,,,,Technical report CMU-CS-84-157,
+"Hinton, GE",1989,Connectionist learning procedures,Artificial Intelligence,40,185-234,,10.1016/0004-3702(89)90049-0
+"Hinton, GE",2000,Training Products of Experts by Minimizing Contrastive Divergence,,,,"Gatsby Computational Neuroscience Unit, technical report 2000-004",10.1152/jappl.2000.88.3.1103
+"Hinton, GE; Dayan, P; Frey, BJ; Neal, RM",1995,The wake-sleep algorithm for unsupervised neural networks,Science,268,1158-1160,,10.1126/science.7761831
+"Hinton, GE; Ghahramani, Z",1997,Generative models for discovering sparse distributed representations,Philosophical Transactions of the Royal Society of London,B352,1177-1190,,10.1098/rstb.1997.0101
+"Hinton, GE; Sejnowski, TJ",1986,Learning and relearning in Boltzmann machines,,,282-317,"In Parallel Distributed Processing Vol. 1. Cambridge, MA: MIT Press",10.1063/1.36246
+"Hinton, GE; Zemel, RS",1994,"Autoencoders, minimum description length and Helmholtz free energy",,,3-10,In Advances in Neural Information Processing Systems 6,10.1007/978-1-4899-1355-5_16
+"Hodgkin, AL; Huxley, AF",1952,A quantitative description of membrane current and its application to conduction and excitation in nerve,Journal of Physiology,117,500-544,,10.1113/jphysiol.1952.sp004764
+"Holt, GR; Softky, GW; Koch, C; Douglas, RJ",1996,Comparison of discharge variability in vitro and in vivo in cat visual cortex neurons,Journal of Neurophysiology,75,1806-1814,,10.1152/jn.1996.75.5.1806
+"Hopfield, JJ",1982,Neural networks and systems with emergent selective computational abilities,Proceedings of the National Academy of Sciences USA,79,2554-2558,,10.1073/pnas.79.8.2554
+"Hopfield, JJ",1984,Neurons with graded response have collective computational properties like those of two-state neurons,Proceedings of the National Academy of Sciences USA,81,3088-3092,,10.1073/pnas.81.10.3088
+"Houk, JC; Adams, JL; Barto, AG",1995,A model of how the basal ganglia generate and use neural signals that predict reinforcement,,,249-270,"In Models of Information Processing in the Basal Ganglia. Cambridge, MA: MIT Press",10.1523/jneurosci.15-05-04046.1995
+"Houk, JC; Davis, JL; Beiser, DG",1995,Models of Information Processing in the Basal Ganglia,,,,"Cambridge, MA: MIT Press",10.1093/cercor/5.2.95
+"Hubel, DH",1988,"Eye, Brain, and Vision",,,,New York: WH Freeman,
+"Hubel, DH; Wiesel, TN",1962,"Receptive fields, binocular interaction and functional architecture in the cat's visual cortex",Journal of Physiology,160,106-154,,10.1113/jphysiol.1962.sp006837
+"Hubel, DH; Wiesel, TN",1968,Receptive fields and functional architecture of the monkey striate cortex,Journal of Physiology,195,215-243,,10.1113/jphysiol.1968.sp008455
+"Hubel, DH; Wiesel, TN",1977,Functional architecture of macaque monkey visual cortex,Proceedings of the Royal Society of London,B198,1-59,,10.1098/rspb.1977.0085
+"Hubener, M; Shoham, D; Grinvald, A; Bonhoeffer, T",1997,Spatial relationships among three columnar systems in cat area 17,Journal of Neuroscience,17,9270-9284,,10.1523/jneurosci.17-23-09270.1997
+"Huber, PJ",1985,Projection pursuit,Annals of Statistics,13,435-475,,10.1214/aos/1176349519
+"Huguenard, JR; McCormick, DA",1992,Simulation of the currents involved in rhythmic oscillations in thalamic relay neurons,Journal of Neurophysiology,68,1373-1383,,10.1152/jn.1992.68.4.1373
+"Humphrey, DR; Schmidt, EM; Thompson, WD",1970,Predicting measures of motor performance from multiple cortical spike trains,Science,170,758-761,,10.1126/science.170.3959.758
+"Intrator, N; Cooper, LN",1992,Objective function formulation of the BCM theory of visual cortical plasticity,Neural Networks,5,3-17,,10.1016/s0893-6080(05)80003-6
+"Jack, JJB; Noble, D; Tsien, RW",1975,Electrical Current Flow in Excitable Cells,,,,Oxford: Oxford University Press,10.1113/jphysiol.1975.sp011080
+"Jahr, CE; Stevens, CF",1990,A quantitative description of NMDA receptor channel kinetic behavior,Journal of Neuroscience,10,1830-1837,,10.1523/jneurosci.10-06-01830.1990
+"Johnston, D; Wu, SM",1995,Foundations of Cellular Neurophysiology,,,,"Cambridge, MA: MIT Press",10.1523/jneurosci.15-08-05789.1995
+"Jolliffe, IT",1986,Principal Component Analysis,,,,New York: Springer-Verlag,10.1007/978-1-4757-1904-8
+"Jones, J; Palmer, L",1987,The two-dimensional spatial structure of simple receptive fields in cat striate cortex,Journal of Neurophysiology,58,1187-1211,,10.1152/jn.1987.58.6.1187
+"Jones, J; Palmer, L",1987,An evaluation of the two-dimensional Gabor filter model of simple receptive fields in cat striate cortex,Journal of Neurophysiology,58,1233-1258,,10.1152/jn.1987.58.6.1233
+"Jordan, DW; Smith, P",1977,Nonlinear Ordinary Differential Equations,,,,Oxford: Clarendon Press,10.1080/00036817708839173
+"Jordan, MI",1998,Learning in Graphical Models,,,,Dordrecht: Kluwer Academic Publishers,10.1007/978-94-011-5014-9_5
+"Jordan, MI; Ghahramani, Z; Jaakkola, TS; Saul, LK",1998,An introduction to variational methods for graphical models,,,105-162,In Learning in Graphical Models. Dordrecht: Kluwer,10.1007/978-94-011-5014-9_5
+"Kalaska, JF; Caminiti, R; Georgopoulos, AP",1983,Cortical mechanisms related to the direction of two-dimensional arm movements,Experimental Brain Research,51,247-260,,10.1007/bf00237200
+"Kandel, ER; Schwartz, JH",1985,Principles of Neural Science,,,,2nd ed. New York: McGraw-Hill,10.1016/0307-4412(85)90046-9
+"Kandel, ER; Schwartz, JH; Jessel, TM",1991,Principles of Neural Science,,,,3rd ed. New York: McGraw-Hill,10.1093/clinids/13.supplement_2.s170
+"Kandel, ER; Schwartz, JH; Jessel, TM",2000,Principles of Neural Science,,,,4th ed. New York: McGraw-Hill,10.1016/s0092-8674(00)00251-8
+"Karasaridis, A; Simoncelli, EP",1996,A filter design technique for steerable pyramid image transforms,,,2387-2390,In Proceedings of ICASSP,10.1109/83.536889
+"Kawato, M; Hayakama, H; Inui, T",1993,A forward-inverse optics model of reciprocal connections between visual cortical areas,Network: Computation in Neural Systems,4,415-422,,10.1088/0954-898x_4_4_001
+"Kearns, MJ; Vazirani, UV",1994,An Introduction to Computational Learning Theory,,,,"Cambridge, MA: MIT Press",10.7551/mitpress/3897.001.0001
+"Kempter, R; Gerstner, W; van Hemmen, JL",1999,Hebbian learning and spiking neurons,Physical Review,E59,4498-4514,,10.1103/physreve.59.4498
+"Koch, C",1998,Biophysics of Computation: Information Processing in Single Neurons,,,,New York: Oxford University Press,10.1093/oso/9780195104912.001.0001
+"Koch, C; Segev, I",1998,Methods in Neuronal Modeling: From Synapses to Networks,,,,"Cambridge, MA: MIT Press",10.1162/089976698300017494
+"Konorski, J",1967,Integrative Activity of the Brain,,,,Chicago: University of Chicago Press,
+"Lapicque, L",1907,Recherches quantitatives sur l'excitation electrique des nerfs traitee comme une polarization,Journal de Physiologie et Pathologie General,9,620-635,,10.3406/bmsap.1907.7004
+"Laughlin, S",1981,A simple coding procedure enhances a neuron's information capacity,Zeitschrift fur Naturforschung,36,910-912,,10.1515/znc-1981-9-1040
+"Lauritzen, SL",1996,Graphical Models,,,,Oxford: Clarendon Press,10.1093/oso/9780198522195.001.0001
+"Lee, C; Rohrer, WH; Sparks, DL",1988,Population coding of saccadic eye movements by neurons in the superior colliculus,Nature,332,357-360,,10.1038/332357a0
+"Leen, TK",1991,Dynamics of learning in recurrent feature-discovery networks,,,70-76,In Advances in Neural Information Processing Systems 3,10.1088/0954-898x/2/1/005
+"LeMasson, G; Marder, E; Abbott, LF",1993,Activity-dependent regulation of conductances in model neurons,Science,259,1915-1917,,10.1126/science.8456317
+"Lewis, JE; Kristan, WB",1998,A neuronal network for computing population vectors in the leech,Nature,391,76-79,,10.1038/34172
+"Li, Z",1995,Modeling the sensory computations of the olfactory bulb,,,221-251,In Models of Neural Networks Volume 2. New York: Springer-Verlag,10.1007/978-1-4757-6130-6_4
+"Li, Z",1996,A theory of the visual motion coding in the primary visual cortex,Neural Computation,8,705-730,,10.1162/neco.1996.8.4.705
+"Li, Z",1998,A neural model of contour integration in the primary visual cortex,Neural Computation,10,903-940,,10.1162/089976698300017557
+"Li, Z",1999,Visual segmentation by contextual influences via intra-cortical interactions in the primary visual cortex,Network: Computation in Neural Systems,10,187-212,,10.1088/0954-898x_10_2_305
+"Li, Z; Atick, JJ",1994,Efficient stereo coding in the multiscale representation,Network: Computation in Neural Systems,5,157-174,,10.1088/0954-898x/5/2/003
+"Li, Z; Atick, JJ",1994,Toward a theory of the striate cortex,Neural Computation,6,127-146,,10.1162/neco.1994.6.1.127
+"Li, Z; Dayan, P",1999,Computational differences between asymmetrical and symmetrical networks,Network: Computation in Neural Systems,10,59-78,,10.1088/0954-898x_10_1_004
+"Li, Z; Hopfield, JJ",1989,Modeling the olfactory bulb and its neural oscillatory processings,Biological Cybernetics,61,379-392,,10.1007/bf00200803
+"Lindgren, BW",1993,Statistical Theory,,,,4th ed. New York: Chapman & Hall,10.2307/3312572
+"Linsker, R",1986,From basic network principles to neural architecture,Proceedings of the National Academy of Sciences USA,83,7508-7512; 8390-8394; 8779-8783,,10.1073/pnas.83.21.8390
+"Linsker, R",1988,Self-organization in a perceptual network,Computer,21,105-117,,10.1109/2.36
+"Lisman, JE",1997,Bursts as a unit of neural information: making unreliable synapses reliable,Trends in Neuroscience,20,38-43,,10.1016/s0166-2236(96)10070-9
+"Liu, Z; Golowasch, J; Marder, E; Abbott, LF",1998,A model neuron with activity-dependent conductances regulated by multiple calcium sensors,Journal of Neuroscience,18,2309-2320,,10.1523/jneurosci.18-07-02309.1998
+"MacKay, DJC",1996,Maximum Likelihood and Covariant Algorithms for Independent Components Analysis,,,,Unpublished manuscript,10.1108/02651339610115773
+"MacKay, DJC; Miller, KD",1990,Analysis of Linsker's application of Hebbian rules to linear networks,Network: Computation in Neural Systems,1,257-299,,10.1088/0954-898x/1/3/001
+"MacKay, DM",1956,The epistemological problem for automata,,,235-251,"In CE Shannon & J McCarthy, eds., Automata Studies. Princeton, NJ: Princeton University Press",10.1515/9781400882618-012
+"Mackintosh, NJ",1983,Conditioning and Associative Learning,,,,Oxford: Oxford University Press,
+"Magleby, KL",1987,Short-term changes in synaptic efficacy,,,21-56,In Synaptic Function. New York: Wiley,10.1071/sr9870369
+"Mangel, M; Clark, CW",1988,Dynamic Modeling in Behavioral Ecology,,,,"Princeton, NJ: Princeton University Press",10.1038/332029a0
+"Mallat, SG",1998,A Wavelet Tour of Signal Processing,,,,"San Diego, CA: Academic Press",10.4171/dms/1-1/9
+"Marder, E; Calabrese, RL",1996,Principles of rhythmic motor pattern generation,Physiological Review,76,687-717,,10.1152/physrev.1996.76.3.687
+"Markram, H; Lubke, J; Frotscher, M; Sakmann, B",1997,Regulation of synaptic efficacy by coincidence of postsynaptic APs and EPSPs,Science,275,213-215,,10.1126/science.275.5297.213
+"Markram, H; Tsodyks, M",1996,Redistribution of synaptic efficacy between neocortical pyramidal neurons,Nature,382,807-810,,10.1038/382807a0
+"Markram, H; Wang, Y; Tsodyks, MV",1998,Differential signalling via the same axon of neocortical pyramidal neurons,Proceedings of the National Academy of Sciences USA,95,5323-5328,,10.1073/pnas.95.9.5323
+"Marmarelis, PZ; Marmarelis, VZ",1978,Analysis of Physiological Systems: The White-Noise Approach,,,,New York: Plenum Press,10.1007/978-1-4613-3970-0
+"Marom, S; Abbott, LF",1994,Modeling state-dependent inactivation of membrane currents,Biophysical Journal,67,515-520,,10.1016/s0006-3495(94)80518-1
+"Marr, D",1970,A theory for cerebral neocortex,Proceedings of the Royal Society of London,B176,161-234,,10.1098/rspb.1970.0040
+"Mascagni, M; Sherman, A",1998,Numerical methods for neuronal modeling,,,569-606,"In Methods in Neuronal Modeling. Cambridge, MA: MIT Press",10.11130/jei.1998.13.3.426
+"Mathews, J; Walker, RL",1970,Mathematical Methods of Physics,,,,New York: Benjamin,10.1080/0020739700010309
+"Mauk, MD; Donegan, NH",1997,A model of Pavlovian conditioning based on the synaptic organization of the cerebellum,Learning and Memory,4,130-158,,10.1101/lm.4.1.130
+"McCormick, DA",1990,Membrane properties and neurotransmitter actions,,,,"In GM Shepherd, ed., The Synaptic Organization of the Brain. New York: Oxford University Press",10.1152/ajpregu.1990.259.4.r857
+"Mehta, MR; Barnes, CA; McNaughton, BL",1997,"Experience-dependent, asymmetric expansion of hippocampal place fields",Proceedings of the National Academy of Sciences USA,94,8918-8921,,10.1073/pnas.94.16.8918
+"Mehta, MR; Quirk, MC; Wilson, M",2000,Experience dependent asymmetric shape of hippocampal receptive fields,Neuron,25,707-715,,10.1016/s0896-6273(00)81072-7
+"Miller, KD",1994,A model for the development of simple cell receptive fields and the ordered arrangement of orientation columns,Journal of Neuroscience,14,409-441,,10.1523/jneurosci.14-01-00409.1994
+"Miller, KD",1996,Receptive fields and maps in the visual cortex: Models of ocular dominance and orientation columns,,,55-78,In Models of Neural Networks Volume 3. New York: Springer-Verlag,10.1007/978-1-4612-0723-8_2
+"Miller, KD",1996,Synaptic economics: competition and cooperation in synaptic plasticity,Neuron,17,371-374,,10.1016/s0896-6273(00)80169-5
+"Miller, KD; Keller, JB; Stryker, MP",1989,Ocular dominance column development: Analysis and simulation,Science,245,605-615,,10.1126/science.2762813
+"Miller, KD; MacKay, DJC",1994,The role of constraints in Hebbian learning,Neural Computation,6,100-126,,10.1162/neco.1994.6.1.100
+"Minai, AA; Levy, WB",1993,Sequence learning in a single trial,,,505-508,In INNS World Congress of Neural Networks II,10.1093/wber/7.2.247
+"Minsky, M; Papert, S",1969,Perceptrons,,,,"Cambridge, MA: MIT Press",
+"Mirenowicz, J; Schultz, W",1994,Importance of unpredictability for reward responses in primate dopamine neurons,Journal of Neurophysiology,72,1024-1027,,10.1152/jn.1994.72.2.1024
+"Montague, PR; Dayan, P; Person, C; Sejnowski, TJ",1995,Bee foraging in uncertain environments using predictive Hebbian learning,Nature,377,725-728,,10.1038/377725a0
+"Montague, PR; Dayan, P; Sejnowski, TJ",1996,A framework for mesencephalic dopamine systems based on predictive Hebbian learning,Journal of Neuroscience,16,1936-1947,,10.1523/jneurosci.16-05-01936.1996
+"Movshon, JA; Thompson, ID; Tolhurst, DJ",1978,Spatial summation in the receptive fields of simple cells in the cat's striate cortex,Journal of Neurophysiology,283,53-77,,10.1113/jphysiol.1978.sp012488
+"Movshon, JA; Thompson, ID; Tolhurst, DJ",1978,Spatial and temporal contrast sensitivity of neurones in areas 17 and 18 of the cat's visual cortex,Journal of Neurophysiology,283,101-120,,10.1113/jphysiol.1978.sp012490
+"Mumford, D",1994,Neuronal architectures for pattern-theoretic problems,,,125-152,"In C Koch & J Davis, eds., Large-Scale Theories of the Cortex. Cambridge, MA: MIT Press",10.1007/978-3-0348-9328-2_6
+"Murray, JD",1993,Mathematical Biology,,,,New York: Springer-Verlag,10.1007/978-3-662-08542-4
+"Narendra, KS; Thatachar, MAL",1989,Learning Automata: An Introduction,,,,"Englewood Cliffs, NJ: Prentice-Hall",10.1007/978-3-662-22419-9_1
+"Neal, RM",1993,Probabilistic Inference Using Markov Chain Monte Carlo Methods,,,,"University of Toronto, technical report CRG-TR-93-1",10.1080/07468342.1993.11973541
+"Neal, RM; Hinton, GE",1998,"A view of the EM algorithm that justifies incremental, sparse, and other variants",,,355-368,In Learning in Graphical Models. Dordrecht: Kluwer,10.1007/978-94-011-5014-9_12
+"Neisser, U",1967,Cognitive Psychology,,,,New York: Appleton-Century-Crofts,
+"Newsome, WT; Britten, KH; Movshon, JA",1989,Neural correlates of a perceptual decision,Nature,341,52-54,,10.1038/341052a0
+"Nicholls, JG; Martin, R; Wallace, BG",1992,From Neuron to Brain,,,,"Sunderland, MA: Sinauer Associates",10.4052/tigg.4.32
+"Nowlan, SJ",1991,Soft Competitive Adaptation: Neural Network Learning Algorithms Based on Fitting Statistical Mixtures,,,,"Ph.D. dissertation, Carnegie-Mellon University",10.1162/neco.1991.3.1.79
+"Obermayer, K; Blasdel, GG",1993,Geometry of orientation and ocular dominance columns in monkey striate cortex,Journal of Neuroscience,13,4114-4129,,10.1523/jneurosci.13-10-04114.1993
+"Obermayer, K; Blasdel, GG; Schulten, K",1992,Statistical-mechanical analysis of self-organization and pattern formation during the development of visual maps,Physical Review A,45,7568-7589,,10.1103/physreva.45.7568
+"Oja, E",1982,A simplified neuron model as a principal component analyzer,Journal of Mathematical Biology,16,267-273,,10.1007/bf00275687
+"O'Keefe, J; Recce, ML",1993,Phase relationship between hippocampal place units and the EEG theta rhythm,Hippocampus,3,317-330,,10.1002/hipo.450030307
+"O'Keefe, LP; Bair, W; Movshon, JA",1997,Response variability of MT neurons in macaque monkey,Society for Neuroscience Abstracts,23,1125,,10.1068/v970037
+"Olshausen, B",1996,"Learning Linear, Sparse, Factorial Codes",,,,"MIT AI Lab, AI-memo 1580",10.1117/12.238708
+"Olshausen, BA; Field, DJ",1996,Emergence of simple-cell receptive field properties by learning a sparse code for natural images,Nature,381,607-609,,10.1038/381607a0
+"Olshausen, BA; Field, DJ",1997,Sparse coding with an overcomplete basis set: A strategy employed by V1?,Vision Research,37,3311-3325,,10.1016/s0042-6989(97)00169-7
+"Oppenheim, AV; Willsky, AS; Nawab, H",1997,Signals and Systems,,,,"2nd ed. Upper Saddle River, NJ: Prentice-Hall",10.1016/s0378-4371(97)00380-4
+"Oram, MW; Foldiak, P; Perrett, DI; Sengpiel, F",1998,The ideal homunculus: Decoding neural population signals,Trends in Neuroscience,21,259-265,,10.1016/s0166-2236(97)01216-2
+"Orban, GA",1984,Neuronal Operations in the Visual Cortex,,,,Berlin: Springer-Verlag,10.1007/978-3-642-46469-0
+"O'Reilly, RC",1996,Biologically plausible error-driven learning using local activation differences: The generalised recirculation algorithm,Neural Computation,8,895-938,,10.1016/0261-5177(95)00098-4
+"Paradiso, MA",1988,A theory for the use of visual orientation information which exploits the columnar structure of striate cortex,Biological Cybernetics,58,35-49,,10.1007/bf00363954
+"Parker, AJ; Newsome, WT",1998,Sense and the single neuron: Probing the physiology of perception,Annual Review of Neuroscience,21,227-277,,10.1146/annurev.neuro.21.1.227
+"Patlak, J",1991,Molecular kinetics of voltage-dependent Na+ channels,Physiological Review,71,1047-1080,,10.1152/physrev.1991.71.4.1047
+"Pearl, J",1988,Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference,,,,"San Mateo, CA: Morgan Kaufmann",10.1016/b978-0-08-051489-5.50008-4
+"Pearlmutter, BA; Parra, LC",1996,A context-sensitive generalization of ICA,,,151-157,In Proceedings of ICONIP 1996,
+"Pece, AEC",1992,Redundancy reduction of a Gabor representation,,,865-868,In Artificial Neural Networks 2. Amsterdam: Elsevier,10.1016/b978-0-444-89488-5.50008-7
+"Percival, DB; Waldron, AT",1993,Spectral Analysis for Physical Applications,,,,Cambridge: Cambridge University Press,10.1017/cbo9780511622762
+"Piepenbrock, C; Obermayer, K",1999,The role of lateral cortical competition in ocular dominance development,,,,In Advances in Neural Information Processing Systems 11,10.1016/s0925-2312(99)00037-5
+"Plumbley, MD",1991,On Information Theory and Unsupervised Neural Networks,,,,"Cambridge University Engineering Department, technical report CUED/F-INFENG/TR.78",
+"Poggio, GF; Talbot, WH",1981,Mechanisms of static and dynamic stereopsis in foveal cortex of the rhesus monkey,Journal of Physiology,315,469-492,,10.1113/jphysiol.1981.sp013759
+"Poggio, T",1990,A theory of how the brain might work,Cold Spring Harbor Symposium on Quantitative Biology,55,899-910,,10.1101/sqb.1990.055.01.084
+"Pollen, D; Ronner, S",1982,Spatial computations performed by simple and complex cells in the visual cortex of the cat,Vision Research,22,101-118,,10.1016/0042-6989(82)90172-9
+"Poor, HV",1994,An Introduction to Signal Detection and Estimation,,,,2nd ed. New York: Springer-Verlag,10.1007/978-1-4757-2341-0
+"Pouget, A; Sejnowski, TJ",1995,Spatial representations in the parietal cortex may use basis functions,,,157-164,In Advances in Neural Information Processing Systems 7,10.1073/pnas.92.21.9515
+"Pouget, A; Sejnowski, TJ",1997,Spatial transformations in the parietal cortex using basis functions,Journal of Cognitive Neuroscience,9,222-237,,10.1162/jocn.1997.9.2.222
+"Pouget, A; Zhang, KC; Deneve, S; Latham, PE",1998,Statistically efficient estimation using population coding,Neural Computation,10,373-401,,10.1162/089976698300017809
+"Press, WH; Teukolsky, SA; Vetterling, WT; Flannery, BP",1992,Numerical Recipes in C,,,,Cambridge: Cambridge University Press,10.1098/rsta.1992.0073
+"Price, DJ; Willshaw, DJ",2000,Mechanisms of Cortical Development,,,,Oxford: Oxford University Press,10.1093/acprof:oso/9780192624277.001.0001
+"Purves, D; Augustine, GJ; Fitzpatrick, D; Katz, LC; LaMantia, A-S; McNamara, JO; Williams, SM",2000,Neuroscience,,,,Sunderland MA: Sinauer Associates,
+"Rall, W",1959,Branching dendritic trees and motoneuron membrane resistivity,Experimental Neurology,2,503-532,,10.1016/0014-4886(59)90046-9
+"Rall, W",1977,Core conductor theory and cable properties of neurons,,,39-97,"In Handbook of Physiology vol. 1. Bethesda, MD: American Physiology Society",10.1002/j.2040-4603.1977.tb00811.x
+"Rao, RPN; Ballard, DH",1997,Dynamic model of visual recognition predicts neural response properties in the visual cortex,Neural Computation,9,721-763,,10.1162/neco.1997.9.4.721
+"Raymond, JL; Lisberger, SG; Mauk, MD",1996,The cerebellum: A neuronal learning machine?,Science,272,1126-1131,,10.1126/science.272.5265.1126
+"Real, LA",1991,Animal choice behavior and the evolution of cognitive architecture,Science,253,980-986,,10.1126/science.1887231
+"Reichardt, W",1961,Autocorrelation: A principle for the evaluation of sensory information by the central nervous system,,,,"In WA Rosenblith, ed., Sensory Communication. New York: Wiley",10.2307/3007424
+"Rescorla, RA; Wagner, AR",1972,A theory of Pavlovian conditioning,,,64-69,In Classical Conditioning II. New York: Appleton-Century-Crofts,10.1016/s0079-7421(08)60383-7
+"Rieke, F; Bodnar, DA; Bialek, W",1995,Naturalistic stimuli increase the rate and efficiency of information transmission by primary auditory afferents,Proceedings of the Royal Society of London,B262,259-265,,10.1007/bf02451830
+"Rieke, FM; Warland, D; de Ruyter van Steveninck, R; Bialek, W",1997,Spikes: Exploring the Neural Code,,,,"Cambridge, MA: MIT Press",10.1126/science.275.5307.1805
+"Rinzel, J; Ermentrout, B",1998,Analysis of neural excitability and oscillations,,,251-292,"In Methods in Neuronal Modeling. Cambridge, MA: MIT Press",10.1088/0034-4885/61/4/002
+"Rissanen, J",1989,Stochastic Complexity in Statistical Inquiry,,,,Singapore: World Scientific Press,
+"Robinson, DA",1989,Integrating with neurons,Annual Review of Neuroscience,12,33-45,,10.1146/annurev.neuro.12.1.33
+"Rodieck, R",1965,Quantitative analysis of cat retinal ganglion cell responses to visual stimuli,Vision Research,5,583-601,,10.1016/0042-6989(65)90033-7
+"Rolls, ET; Treves, A",1998,Neural Networks and Brain Function,,,,New York: Oxford University Press,10.1093/oso/9780198524649.003.0008
+"Rosenblatt, F",1958,The perceptron: A probabilistic model for information storage and organization in the brain,Psychological Review,65,386-408,,10.1037/h0042519
+"Roth, Z; Baram, Y",1996,Multidimensional density shaping by sigmoids,IEEE Transactions on Neural Networks,7,1291-1298,,10.1109/72.536322
+"Rovamo, J; Virsu, V",1984,Isotropy of cortical magnification and topography of striate cortex,Vision Research,24,283-286,,10.1016/0042-6989(84)90133-0
+"Roweis, S",1998,EM Algorithms for PCA and SPCA,,,626-632,In Advances in Neural Information Processing Systems 10,
+"Roweis, S; Ghahramani, Z",1999,A unifying review of linear Gaussian models,Neural Computation,11,305-345,,10.1162/089976699300016674
+"Rubin, DB; Thayer, DT",1982,EM algorithms for ML factor analysis,Psychometrika,47,69-76,,10.1007/bf02293851
+"de Ruyter van Steveninck, R; Bialek, W",1988,Real-time performance of a movement-sensitive neuron in the blowfly visual system,Proceedings of the Royal Society of London,B234,379-414,,10.1098/rspb.1988.0055
+"Sakmann, B; Neher, E",1983,Single Channel Recording,,,,New York: Plenum,10.1113/jphysiol.1983.sp014741
+"Salinas, E; Abbott, LF",1994,Vector reconstruction from firing rates,Journal of Computational Neuroscience,1,89-107,,10.1007/bf00962720
+"Salinas, E; Abbott, LF",1995,Transfer of coded information from sensory to motor networks,Journal of Neuroscience,15,6461-6474,,10.1523/jneurosci.15-10-06461.1995
+"Salinas, E; Abbott, LF",1996,A model of multiplicative neural responses in parietal cortex,Proceedings of the National Academy of Sciences USA,93,11956-11961,,10.1073/pnas.93.21.11956
+"Salinas, E; Abbott, LF",2000,Do simple cells in primary visual cortex form a tight frame?,Neural Computation,12,313-336,,10.1162/089976600300015817
+"Salzman, CA; Shadlen, MN; Newsome, WT",1992,Microstimulation in visual area MT: Effects on directional discrimination performance,Journal of Neuroscience,12,2331-2356,,10.1523/jneurosci.12-06-02331.1992
+"Samsonovich, A; McNaughton, BL",1997,Path integration and cognitive mapping in a continuous attractor neural network model,Journal of Neuroscience,17,5900-5920,,10.1523/jneurosci.17-15-05900.1997
+"Sanger, TD",1994,Theoretical considerations for the analysis of population coding in motor cortex,Neural Computation,6,29-37,,10.1162/neco.1994.6.1.29
+"Sanger, TD",1996,Probability density estimation for the interpretation of neural population codes,Journal of Neurophysiology,76,2790-2793,,10.1152/jn.1996.76.4.2790
+"Saul, AB; Humphrey, AL",1990,Spatial and temporal properties of lagged and nonlagged cells in the cat lateral geniculate nucleus,Journal of Neurophysiology,68,1190-1208,,10.1152/jn.1990.64.1.206
+"Saul, LK; Jordan, ML",2000,Attractor dynamics in feedforward neural networks,Neural Computation,12,1313-1335,,10.1162/089976600300015385
+"Schultz, W",1998,Predictive reward signal of dopamine neurons,Journal of Neurophysiology,80,1-27,,10.1152/jn.1998.80.1.1
+"Schultz, W; Romo, R; Ljungberg, T; Mirenowicz, J; Hollerman, JR; Dickinson, A",1995,Reward-related signals carried by dopamine neurons,,,233-248,"In Models of Information Processing in the Basal Ganglia. Cambridge, MA: MIT Press",10.1007/s008940050005
+"Schwartz, EL",1977,Spatial mapping in the primate sensory projection,Biological Cybernetics,25,181-194,,10.1007/bf01885636
+"Sclar, G; Freeman, R",1982,Orientation selectivity in cat's striate cortex is invariant with stimulus contrast,Experimental Brain Research,46,457-461,,10.1007/bf00238641
+"Scott, DW",1992,"Multivariate Density Estimation: Theory, Practice, and Visualization",,,,New York: Wiley,10.1002/9780470316849
+"Sejnowski, TJ",1977,Storing covariance with nonlinearly interacting neurons,Journal of Mathematical Biology,4,303-321,,10.1007/bf00275079
+"Sejnowski, TJ",1999,The book of Hebb,Neuron,24,773-776,,10.1016/s0896-6273(00)81025-9
+"Seung, HS",1996,How the brain keeps the eyes still,Proceedings of the National Academy of Sciences USA,93,13339-13344,,10.1073/pnas.93.23.13339
+"Seung, HS; Lee, DD; Reis, BY; Tank, DW",2000,Stability of the memory for eye position in a recurrent network of conductance-based model neurons,Neuron,26,259-271,,10.1016/s0896-6273(00)81155-1
+"Seung, HS; Sompolinsky, H",1993,Simple models for reading neuronal population codes,Proceedings of the National Academy of Sciences USA,90,10749-10753,,10.1073/pnas.90.22.10749
+"Shadlen, MN; Britten, KH; Newsome, WT; Movshon, JA",1996,A computational analysis of the relationship between neuronal and behavioral responses to visual motion,Journal of Neuroscience,16,1486-1510,,10.1523/jneurosci.16-04-01486.1996
+"Shadlen, MN; Newsome, WT",1998,"The variable discharge of cortical neurons: Implications for connectivity, computation, and information coding",Journal of Neuroscience,18,3870-3896,,10.1523/jneurosci.18-10-03870.1998
+"Shanks, DR",1995,The Psychology of Associative Learning,,,,Cambridge: Cambridge University Press,10.1017/cbo9780511623288
+"Shannon, CE; Weaver, W",1949,The Mathematical Theory of Communications,,,,"Urbana, IL: University of Illinois Press",10.1002/j.1538-7305.1949.tb00928.x
+"Shepherd, GM",1997,Neurobiology,,,,Oxford: Oxford University Press,
+"Siebert, WMcC",1986,"Circuits, Signals, and Systems",,,,"Cambridge, MA: MIT Press; New York: McGraw-Hill",
+"Simoncelli, EP",1997,"Statistical models for images: Compression, restoration and synthesis",,,673-678,In Proceedings of the 31st Asilomar Conference,10.1520/jte11496j
+"Simoncelli, EP; Adelson, EH",1990,Subband image coding,,,143-192,"In JW Woods, ed., Subband Transforms. Norwell, MA: Kluwer",
+"Simoncelli, EP; Freeman, WT",1995,The steerable pyramid: A flexible architecture for derivative computation,,,444-447,In Proceedings of ICIP,10.1068/p240603
+"Simoncelli, EP; Freeman, WT; Adelson, EH; Heeger, DJ",1992,Shiftable multiscale transforms,IEEE Transactions on Information Theory,38,587-607,,10.1109/18.119725
+"Simoncelli, EP; Schwartz, O",1999,Modeling non-specific suppression in V1 neurons with a statistically-derived normalization model,,,153-159,In Advances in Neural Information Processing Systems 11,10.1117/12.366779
+"Snippe, HP",1996,Parameter extraction from population codes: A critical assessment,Neural Computation,8,511-529,,10.1162/neco.1996.8.3.511
+"Snippe, HP; Koenderink, JJ",1992,Discrimination thresholds for channel-coded systems,Biological Cybernetics,66,543-551,,10.1007/bf00204120
+"Snippe, HP; Koenderink, JJ",1992,Information in channel-coded systems: Correlated receivers,Biological Cybernetics,67,183-190,,10.1007/bf00201025
+"Softky, WR; Koch, C",1992,Cortical cells should spike regularly but do not,Neural Computation,4,643-646,,10.1162/neco.1992.4.5.643
+"Solomon, RL; Corbit, JD",1974,An opponent-process theory of motivation. I. Temporal dynamics of affect,Psychological Review,81,119-145,,10.1037/h0036128
+"Somers, DC; Nelson, SB; Sur, M",1995,An emergent model of orientation selectivity in cat visual cortical simple cells,Journal of Neuroscience,15,5448-5465,,10.1523/jneurosci.15-08-05448.1995
+"Sompolinsky, H; Shapley, R",1997,New perspectives on the mechanisms for orientation selectivity,Current Opinion in Neurobiology,7,514-522,,10.1016/s0959-4388(97)80031-1
+"Song, S; Miller, KD; Abbott, LF",2000,Competitive Hebbian learning through spike-timing dependent synaptic plasticity,Nature Neuroscience,3,919-926,,10.1038/78829
+"Stemmler, M; Koch, C",1999,How voltage-dependent conductances can adapt to maximize the information encoded by neuronal firing rate,Nature Neuroscience,2,521-527,,10.1038/9173
+"Stevens, CM; Zador, AM",1998,Novel integrate-and-fire-like model of repetitive firing in cortical neurons,,,,In Proceedings of the 5th Joint Symposium on Neural Computation,10.1038/659
+"Strang, G",1976,Linear Algebra and Its Applications,,,,New York: Academic Press,10.2307/2005411
+"Strong, SP; Koberle, R; de Ruyter van Steveninck, RR; Bialek, W",1998,Entropy and information in neural spike trains,Physical Review Letters,80,197-200,,10.1103/physrevlett.80.197
+"Stuart, GJ; Sakmann, B",1994,Active propagation of somatic action potentials into neocortical pyramidal cell dendrites,Nature,367,69-72,,10.1038/367069a0
+"Stuart, GJ; Spruston, N",1998,Determinants of voltage attenuation in neocortical pyramidal neuron dendrites,Journal of Neuroscience,18,3501-3510,,10.1523/jneurosci.18-10-03501.1998
+"Sutton, RS",1988,Learning to predict by the methods of temporal difference,Machine Learning,3,9-44,,10.1007/bf00115009
+"Sutton, RS; Barto, AG",1990,Time-derivative models of Pavlovian conditioning,,,497-537,"In Learning and Computational Neuroscience. Cambridge, MA: MIT Press",10.1016/0262-8856(90)90062-a
+"Sutton, RS; Barto, AG",1998,Reinforcement Learning,,,,"Cambridge, MA: MIT Press",10.1109/tnn.1998.712192
+"Swindale, NV",1996,The development of topography in the visual cortex: A review of models,Network: Computation in Neural Systems,7,161-247,,10.1088/0954-898x/7/2/002
+"Theunissen, FE; Miller, JP",1991,Representation of sensory information in the cricket cercal sensory system. II.,Journal of Neurophysiology,66,1690-1703,,10.1152/jn.1991.66.5.1680
+"Tipping, ME; Bishop, CM",1999,Mixtures of probabilistic principal component analyzers,Neural Computation,11,443-482,,10.1162/089976699300016728
+"Titterington, DM; Smith, AFM; Makov, UE",1985,Statistical Analysis of Finite Mixture Distributions,,,,New York: Wiley,10.1111/j.2517-6161.1985.tb01337.x
+"Tootell, RB; Silverman, MS; Switkes, E; De Valois, RL",1982,Deoxyglucose analysis of retinotopic organization in primate striate cortex,Science,218,902-904,,10.1126/science.7134981
+"Touretzky, DS; Redish, AD; Wan, HS",1993,Neural representation of space using sinusoidal arrays,Neural Computation,5,869-884,,10.1162/neco.1993.5.6.869
+"Troyer, TW; Miller, KD",1997,Physiological gain leads to high ISI variability in a simple model of a cortical regular spiking cell,Neural Computation,9,971-983,,10.1162/neco.1997.9.5.971
+"Tsai, KY; Carnevale, NT; Claiborne, BJ; Brown, TH",1994,Efficient mapping from neuroanatomical to electrotonic space,Network: Computation in Neural Systems,5,21-46,,10.1088/0954-898x/5/1/002
+"Tsodyks, MV; Markram, H",1997,The neural code between neocortical pyramidal neurons depends on neurotransmitter release probability,Proceedings of the National Academy of Sciences USA,94,719-723,,10.1073/pnas.94.2.719
+"Tuckwell, HC",1988,Introduction to Theoretical Neurobiology,,,,"Cambridge, UK: Cambridge University Press",10.1017/cbo9780511623202
+"Turing, AM",1952,The chemical basis of morphogenesis,Philosophical Transactions of the Royal Society of London,B237,37-72,,10.1098/rstb.1952.0012
+"Turrigiano, G; LeMasson, G; Marder, E",1995,Selective regulation of current densities underlies spontaneous changes in the activity of cultured neurons,Journal of Neuroscience,15,3640-3652,,10.1523/jneurosci.15-05-03640.1995
+"Uttley, AM",1979,Information Transmission in the Nervous System,,,,London: Academic Press,
+"Van Essen, DC; Newsome, WT; Maunsell, JHR",1984,The visual field representation in striate cortex of the macaque monkey,Vision Research,24,429-448,,10.1016/0042-6989(84)90041-5
+"Van Santen, JP; Sperling, G",1984,Temporal covariance model of human motion perception,Journal of the Optical Society of America,A1,451-473,,10.1364/josaa.1.000451
+"Varela, J; Sen, K; Gibson, J; Fost, J; Abbott, LF; Nelson, SB",1997,A quantitative description of short-term plasticity at excitatory synapses in layer 2/3 of rat primary visual cortex,Journal of Neuroscience,17,7926-7940,,10.1523/jneurosci.17-20-07926.1997
+"Venkatesh, SS",1986,Epsilon capacity of a neural network,,,440-445,In Proceedings of Neural Networks for Computing,10.1063/1.36217
+"Vogels, R",1990,Population coding of stimulus orientation by cortical cells,Journal of Neuroscience,10,3543-3558,,10.1007/bf00203627
+"van Vreeswijk, C; Abbott, LF; Ermentrout, GB",1994,When inhibition not excitation synchronizes neuronal firing,Journal of Computational Neuroscience,1,313-321,,10.1007/bf00961879
+"Wallis, G; Baddeley, R",1997,"Optimal, unsupervised learning in invariant object recognition",Neural Computation,9,883-894,,10.1162/neco.1997.9.4.883
+"Wandell, BA",1995,Foundations of Vision,,,,"Sunderland, MA: Sinauer Associates",
+"Wang, X-J",1994,Multiple dynamical modes of thalamic relay neurons: Rhythmic bursting and intermittent phase-locking,Neuroscience,59,21-31,,10.1016/0306-4522(94)90095-7
+"Wang, X-J",1998,Calcium coding and adaptive temporal computation in cortical pyramidal neurons,Journal of Neurophysiology,79,1549-1566,,10.1152/jn.1998.79.3.1549
+"Wang, X-J; Rinzel, J",1992,Alternating and synchronous rhythms in reciprocally inhibitory model neurons,Neural Computation,4,84-97,,10.1162/neco.1992.4.1.84
+"Watkins, CJCH",1989,Learning from Delayed Rewards,,,,"Ph.D. dissertation, University of Cambridge",10.1177/016264348900900305
+"Watson, AB; Ahumada, AJ",1985,Model of human visual-motion sensing,Journal of the Optical Society of America,A2,322-342,,10.1364/josaa.2.000322
+"Weliky, M",2000,Correlated neuronal activity and visual cortical development,Neuron,27,427-430,,10.1016/s0896-6273(00)00053-2
+"Werblin, FS; Dowling, JE",1969,"Organization of the retina of the mudpuppy, Necturus maculosus. II. Intracellular recording",Journal of Neurophysiology,32,339-355,,10.1152/jn.1969.32.3.339
+"Wickens, J",1993,A Theory of the Striatum,,,,New York: Pergamon Press,10.1016/b978-0-08-042278-7.50008-9
+"Widrow, B; Hoff, ME",1960,Adaptive switching circuits,WESCON Convention Report,4,96-104,,10.21236/ad0241531
+"Widrow, B; Stearns, SD",1985,Adaptive Signal Processing,,,,"Englewood Cliffs, NJ: Prentice-Hall",
+"Wiener, N",1958,Nonlinear Problems in Random Theory,,,,New York: Wiley,10.1038/181561a0
+"Williams, RJ",1992,Simple statistical gradient-following algorithms for connectionist reinforcement learning,Machine Learning,8,229-256,,10.1023/a:1022672621406
+"Wilson, HR; Cowan, JD",1972,Excitatory and inhibitory interactions in localized populations of model neurons,Biophysical Journal,12,1-24,,10.1016/s0006-3495(72)86068-5
+"Wilson, HR; Cowan, JD",1973,A mathematical theory of the functional dynamics of cortical and thalamic nervous tissue,Kybernetik,13,55-80,,10.1007/bf00288786
+"Witkin, A",1983,Scale space filtering,,,1019-1022,In Proceedings of IJCAI vol. 2,
+"Worgotter, F; Koch, C",1991,A detailed model of the primary visual pathway in the cat,Journal of Neuroscience,11,1959-1979,,10.1523/jneurosci.11-07-01959.1991
+"Yuste, R; Sur, M",1999,Development and plasticity of the cerebral cortex: From molecules to maps,Journal of Neurobiology,41,1-6,,10.1002/(sici)1097-4695(199910)41:1<1::aid-neu1>3.0.co;2-2
+"Zador, A; Agmon-Snir, H; Segev, I",1995,The morphoelectrotonic transform: A graphical approach to dendritic function,Journal of Neuroscience,15,1669-1682,,10.1523/jneurosci.15-03-01669.1995
+"Zemel, RS",1994,A Minimum Description Length Framework for Unsupervised Learning,,,,"Ph.D. dissertation, University of Toronto",10.1007/978-3-642-88049-0_44
+"Zhang, K",1996,Representation of spatial orientation by the intrinsic dynamics of the head-direction cell ensemble: A theory,Journal of Neuroscience,16,2112-2126,,10.1523/jneurosci.16-06-02112.1996
+"Zhang, K; Sejnowski, T",1999,Neural tuning: To sharpen or broaden?,Neural Computation,11,75-84,,10.1162/089976699300016809
+"Zhang, LI; Tao, HW; Holt, CE; Harris, WA; Poo, M-m",1998,A critical window for cooperation and competition among developing retinotectal synapses,Nature,395,37-44,,10.1038/25665
+"Zigmond, MJ; Bloom, FE; Landis, SC; Squire, LR",1998,Fundamental Neuroscience,,,,San Diego: Academic Press,10.1016/s0896-6273(00)80557-7
+"Zipser, D; Andersen, RA",1988,A back-propagation programmed network that simulates response properties of a subset of posterior parietal neurons,Nature,331,679-684,,10.1038/331679a0
+"Zohary, E",1992,Population coding of visual stimuli by cortical neurons tuned to more than one dimension,Biological Cybernetics,66,265-272,,10.1007/bf00198480
+"Zucker, RS",1989,Short-term synaptic plasticity,Annual Review of Neuroscience,12,13-31,,10.1146/annurev.neuro.12.1.13
