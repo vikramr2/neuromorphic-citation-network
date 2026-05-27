@@ -1,7 +1,7 @@
 extraction:
   max_chars: 16000  # Maximum characters to process per document (~8000 tokens). Longer documents are truncated.
   prompt_files:     # List of prompt files to try for each document. ALL prompts are attempted (not fallbacks).
-    - "prompts/neuromorphic_prompt.md"  # First prompt file for triple extraction
+    - "prompts/neuroscience_prompt.md"  # First prompt file for triple extraction
     # - "prompts/triple_extraction.md"   # Second prompt file - all are tried for maximum coverage
 
 normalize:          # Text normalization settings for entity/relation processing
