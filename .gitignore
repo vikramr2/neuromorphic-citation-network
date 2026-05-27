@@ -1,4 +1,6 @@
 data/
+archive/
+notebooklm-py/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
