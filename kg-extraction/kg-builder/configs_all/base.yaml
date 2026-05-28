@@ -1,8 +1,8 @@
 project_dir: .
-output_dir: ../../output_all
+output_dir: ../../data/kg/kg_all
 merge_output_dirs:
-  - ../../output_neuromorphic
-  - ../../output_aiml
-  - ../../output_neuroscience
+  - ../../data/kg/kg_neuromorphic
+  - ../../data/kg/kg_aiml
+  - ../../data/kg/kg_neuroscience
 logs_dir: ../../logs_all
 seed: 42
